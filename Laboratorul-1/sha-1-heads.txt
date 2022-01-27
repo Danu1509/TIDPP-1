@@ -1,0 +1,95 @@
+commit a6c569ab206dd3666288ce5568c65858ff3b0601
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:13:32 2022 +0200
+
+    Git Log
+
+commit c51b85c1265836dd836977169b827e99ee469826
+Merge: 5c8c5ba eefcbaf
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:13:04 2022 +0200
+
+    Merge branch 'HTML'
+
+commit 5c8c5badb495c91519ace87a72bbaaefdfebaac1
+Merge: 69b741c 9ad6226
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:12:59 2022 +0200
+
+    Merge branch 'Swift'
+
+commit 69b741c03700cb21beb8ca6f640c1986b2f5e32d
+Merge: f8b0cfd c3c6c78
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:12:54 2022 +0200
+
+    Merge branch 'Ruby'
+
+commit f8b0cfd929b7b3d88650c119ef540b89b3c6d3c1
+Merge: 72526c2 ef7b289
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:12:48 2022 +0200
+
+    Merge branch 'VBScript'
+
+commit 72526c2c32be0ace816a51822e45d83d755e1ecd
+Merge: dd6220a 10f86e7
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:12:24 2022 +0200
+
+    Merge branch 'Bash'
+
+commit dd6220a4b693bec8bbdeaf807add4568cf8ac87c
+Merge: 05a92a9 0e5bd30
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:12:19 2022 +0200
+
+    Merge branch 'Python'
+
+commit eefcbaf725f3e9f6ce8c587ced03a12338328272
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:11:53 2022 +0200
+
+    Hello World in HTML
+
+commit 9ad6226b42d239493c5f15411ac2b234d48895a8
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:11:26 2022 +0200
+
+    Hello World in Swift
+
+commit c3c6c7843dcbefe35944fdd919a5542e62c82c5f
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:10:59 2022 +0200
+
+    Hello World in Ruby
+
+commit ef7b289da70ba468931938ac043722fcd9185693
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:10:23 2022 +0200
+
+    Hello World in VBScript
+
+commit 10f86e703b63a43bf27ce81846d068b8e7dbb122
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:03:40 2022 +0200
+
+    Hello World in Bash
+
+commit 0e5bd30fb5a525a9adea5976aa8b28d54038365d
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:03:07 2022 +0200
+
+    Hello World in Python
+
+commit 05a92a9c82f47d53b87bdb4716c6271085b199ef
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 16:02:30 2022 +0200
+
+    Hello World in JavaScript
+
+commit 410f47da11eea5d8b6bc4391b5d330803e4b3b24
+Author: Danu <daniel.sirbu@isa.utm.md>
+Date:   Thu Jan 27 15:59:46 2022 +0200
+
+    First commit
